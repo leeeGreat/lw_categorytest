@@ -27,8 +27,8 @@ asdfasdfasdfa s
 
 
 
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
+  s.source_files  = "Category", "Category/**/*.{h,m}"
+  s.exclude_files = "Category/Exclude"
 
 s.frameworks = "SomeFramework", "AnotherFramework"
 
